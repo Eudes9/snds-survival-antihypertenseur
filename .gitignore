@@ -1,0 +1,15 @@
+# Données simulées
+data/*.rds
+
+# Outputs générés
+outputs/*.rds
+outputs/figures/*.png
+outputs/tables/*.csv
+
+# Rapport compilé
+report/*.html
+
+# RStudio
+.Rhistory
+.RData
+.Rproj.user/ 
