@@ -1,0 +1,5 @@
+setwd("C:/Users/jeane/Documents/Alternance/snds-survival-antihypertenseur")
+source("data/00_simulate_snds.R")
+source("scripts/01_data_quality.R")
+source("scripts/02_cohort_selection.R")
+source("scripts/03_propensity_score.R")
